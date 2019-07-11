@@ -1,0 +1,13 @@
+{
+    "name": "iviarco/jquery-touch",
+    "description": "Cross-device hand gestures.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mark Daryl Jerezon",
+            "email": "markdaryljerezon@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
